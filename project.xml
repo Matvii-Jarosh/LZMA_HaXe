@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="ArchiveAPI" package="com.sample.archiveapi" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="ArchiveAPI" />
+	<window width="300" height="200" />
+	
+	<source path="Source" />
+	
+	<haxelib name="lime" />
+	
+	<assets path="Assets" rename="assets" />
+	
+</project>
